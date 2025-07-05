@@ -1,4 +1,12 @@
-## Hi there 👋
+## Bienvenido a mi repositorio! (〃￣︶￣)人(￣︶￣〃)
+
+Soy estudiante de Ingeniería en Sistemas Computacionales. Este es mi repositorio de trabajo para los proyectos que he desarrollado.
+
+> Lenguajes en práctica:
+- Java
+- Python
+- C++
+- Kotlin
 
 <!--
 **CesarRamirez12/CesarRamirez12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
